@@ -36,8 +36,8 @@
 管理者类生成成绩单类
 成绩单类包含成绩查询类
 老师类访问成绩查询类
-4）	使用 staruml 画出该功能模块 ![image]https://github.com/sptjkl/fanlinghui/blob/main/1.png
+4）	使用 staruml 画出该功能模块 ![image](https://github.com/sptjkl/fanlinghui/blob/main/1.png)
 3、网络的普及带给了人们更多的学习途径，随之而来的管理远程网络教学的“远程网络教学系统”诞生了。“远程网络教学系统”的功能需求如下：学生登录网站后，可以浏览课件、查找课件、下载课件、观看教学视频。教师登录网站后，可以上传课件、上传教学视频、发布教学心得、查看教学心得、修改教学心得。系统管理员负责对网站页面的维护、审核不合法课件和不合法教学信息、批准用户注册。
 问题：老师需要登录“远程网络教学系统”后才能正常使用该系统的所有功能。如果忘记密码，可与通过“找回密码”功能恢复密码。请使用staruml 画出教师参与者的类图。
- ![2]https://github.com/sptjkl/fanlinghui/blob/main/2.png
+ ![2](https://github.com/sptjkl/fanlinghui/blob/main/2.png)
  
